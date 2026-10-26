@@ -1,0 +1,572 @@
+{
+  "form_meta": {
+    "bank_name": "bank logo",
+    "bank_tagline": "bank tagline",
+    "bank_website": "www.example-bank.com",
+    "form_title": "Application For Personal Loan",
+    "form_code": "PL02",
+    "form_version": "RA/PL/App Form/April2026/ Version 1.00"
+  },
+  "applicant": {
+    "application_date": "",
+    "existing_customer": {
+      "customer_id": "",
+      "savings_account_yes": false,
+      "savings_account_no": false,
+      "account_no": ""
+    },
+    "loan_type": {
+      "pre_approved": false,
+      "premium_scheme": false,
+      "topup_with_closure": false,
+      "parallel": false,
+      "external_bt_loan_account_no": ""
+    },
+    "personal_details": {
+      "name_as_per_id": {
+        "prefix": "",
+        "first_name": "",
+        "middle_name": "",
+        "last_name": ""
+      },
+      "name_as_per_pan": {
+        "prefix": "",
+        "first_name": "",
+        "middle_name": "",
+        "last_name": ""
+      },
+      "maiden_name": {
+        "prefix": "",
+        "first_name": "",
+        "middle_name": "",
+        "last_name": ""
+      },
+      "father_name": {
+        "prefix": "",
+        "first_name": "",
+        "middle_name": "",
+        "last_name": ""
+      },
+      "mother_maiden_name": {
+        "prefix": "",
+        "first_name": "",
+        "middle_name": "",
+        "last_name": ""
+      },
+      "email": "",
+      "email_statement": false,
+      "constitution": {
+        "resident_indian": false,
+        "non_resident_indian": false,
+        "foreign_national": false,
+        "overseas_citizen_of_india": false,
+        "person_of_indian_origin": false
+      },
+      "nationality": {
+        "indian": false,
+        "other_selected": false,
+        "other_text": ""
+      },
+      "pep_yes": false,
+      "pep_no": false,
+      "community": {
+        "hindu": false,
+        "muslim": false,
+        "buddhist": false,
+        "christian": false,
+        "sikh": false,
+        "zoroastrian": false,
+        "jain": false,
+        "parsi": false,
+        "others": false,
+        "others_specify": ""
+      },
+      "category": {
+        "general": false,
+        "obc": false,
+        "scheduled_caste": false,
+        "scheduled_tribe": false,
+        "others": false,
+        "others_specify": ""
+      },
+      "gender": {
+        "male": false,
+        "female": false,
+        "third_gender": false
+      },
+      "status": {
+        "resident": false,
+        "nri": false,
+        "pio": false,
+        "oci": false,
+        "foreign_national": false
+      },
+      "dob_as_per_id": "",
+      "dob_as_per_pan": "",
+      "marital_status": {
+        "married": false,
+        "single": false,
+        "others": false
+      },
+      "dependents": 0,
+      "disability_yes": false,
+      "disability_no": false,
+      "education": {
+        "matriculate": false,
+        "undergraduate": false,
+        "graduate": false,
+        "postgraduate": false,
+        "professional": false,
+        "others": false
+      }
+    },
+    "present_address": {
+      "line_1": "",
+      "line_2": "",
+      "line_3": "",
+      "landmark": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "pincode": "",
+      "mobile_number": "",
+      "phone_number": "",
+      "is_mailing_address": false,
+      "ownership": {
+        "self_owned": false,
+        "parental": false,
+        "owned_mortgaged": false,
+        "company_provided": false,
+        "paying_guest": false,
+        "rental": false,
+        "relative": false
+      },
+      "years_at_residence": 0,
+      "months_at_residence": 0,
+      "years_in_city": 0,
+      "months_in_city": 0
+    },
+    "permanent_address": {
+      "line_1": "",
+      "line_2": "",
+      "line_3": "",
+      "landmark": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "pincode": "",
+      "mobile_number": "",
+      "phone_number": "",
+      "is_mailing_address": false,
+      "ownership": {
+        "self_owned": false,
+        "parental": false,
+        "owned_mortgaged": false,
+        "rental": false,
+        "relative": false
+      }
+    },
+    "employment": {
+      "occupation": {
+        "salaried": false,
+        "consultant": false
+      },
+      "designation": "",
+      "department": "",
+      "organisation_type": {
+        "pvt_ltd": false,
+        "public_ltd": false,
+        "proprietorship": false,
+        "partnership_firm": false,
+        "public_sector": false,
+        "government": false,
+        "mnc": false,
+        "trust_association_society_club": false
+      },
+      "nature_of_employment": "",
+      "employer_name": "",
+      "office_address": {
+        "line_1": "",
+        "line_2": "",
+        "line_3": "",
+        "landmark": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "pincode": "",
+        "mobile_number": "",
+        "phone_number": "",
+        "is_mailing_address": false
+      },
+      "office_email": "",
+      "office_email_statement": false,
+      "years_in_current_employment": 0,
+      "months_in_current_employment": 0,
+      "total_employment_years": 0,
+      "total_employment_months": 0,
+      "employee_id": ""
+    },
+    "police_defense": {
+      "belt_no": "",
+      "pis_or_employee_no": "",
+      "rank": "",
+      "regiment_unit_details": ""
+    },
+    "ckyc": {
+      "aadhaar": {
+        "proof_of_identity": {
+          "yes": false,
+          "no": false
+        },
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "voter_id": {
+        "proof_of_identity": {
+          "yes": false,
+          "no": false
+        },
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "pan": {
+        "proof_of_identity": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "passport": {
+        "proof_of_identity": {
+          "yes": false,
+          "no": false
+        },
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": "",
+        "date_of_issue": "",
+        "date_of_expiry": ""
+      },
+      "driving_license": {
+        "proof_of_identity": {
+          "yes": false,
+          "no": false
+        },
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": "",
+        "date_of_issue": "",
+        "date_of_expiry": ""
+      },
+      "utility_bill": {
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "npr_letter": {
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "pension_order": {
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "narega": {
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "internal_banking": {
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        }
+      },
+      "ckyc_identifier": {
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      }
+    },
+    "proposed_loan": {
+      "amount": 0,
+      "term_months": 0,
+      "repayment_mode": {
+        "pdc": false,
+        "nach": false,
+        "si": false
+      }
+    },
+    "financial": {
+      "bank_accounts": [
+        {
+          "bank_name": "",
+          "account_number": "",
+          "account_type": ""
+        },
+        {
+          "bank_name": "",
+          "account_number": "",
+          "account_type": ""
+        }
+      ],
+      "existing_loans": [
+        {
+          "financier_name": "",
+          "loan_amount": 0,
+          "type_of_loan": "",
+          "emi": 0,
+          "topup_or_bt": ""
+        },
+        {
+          "financier_name": "",
+          "loan_amount": 0,
+          "type_of_loan": "",
+          "emi": 0,
+          "topup_or_bt": ""
+        },
+        {
+          "financier_name": "",
+          "loan_amount": 0,
+          "type_of_loan": "",
+          "emi": 0,
+          "topup_or_bt": ""
+        }
+      ],
+      "annual_income": 0,
+      "net_monthly_income": 0,
+      "total_annual_household_income": 0,
+      "source_of_fund": {
+        "salaried": false,
+        "investment": false,
+        "professional_fees": false,
+        "business_earnings": false,
+        "commission": false,
+        "agriculture": false
+      },
+      "source_of_wealth": {
+        "inherited_funds": false,
+        "property": false,
+        "investment": false,
+        "others": false,
+        "others_specify": "",
+        "nil": false
+      },
+      "wealth_amount": 0
+    },
+    "purpose_of_loan": {
+      "education": false,
+      "home_renovation": false,
+      "marriage": false,
+      "travel": false,
+      "consumer_durables": false,
+      "medical": false,
+      "personal": false
+    },
+    "references": [
+      {
+        "name": "",
+        "relationship": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "pincode": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "mobile_or_telephone": "",
+        "email": ""
+      },
+      {
+        "name": "",
+        "relationship": "",
+        "address_line_1": "",
+        "address_line_2": "",
+        "pincode": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "mobile_or_telephone": "",
+        "email": ""
+      }
+    ],
+    "insurance": {
+      "opt_in": false,
+      "opt_in_policy_name": "",
+      "opt_out": false,
+      "opt_out_policy_name": ""
+    },
+    "consents": {
+      "preferred_language": {
+        "english": false,
+        "hindi": false,
+        "marathi": false,
+        "punjabi": false,
+        "bengali": false,
+        "odia": false,
+        "gujarati": false,
+        "kannada": false,
+        "malayalam": false,
+        "tamil": false,
+        "telugu": false
+      },
+      "cross_sell_yes": false,
+      "cross_sell_no": false,
+      "declaration_not_pep": false
+    },
+    "related_party_declaration": {
+      "entries": [],
+      "authorized_signatory_name": ""
+    },
+    "fatca_crs": {
+      "tax_resident_india_only": false,
+      "tax_resident_other_countries": false,
+      "city_of_birth": "",
+      "country_of_birth": "",
+      "address_type": {
+        "resident": false,
+        "business": false,
+        "registered_office": false
+      },
+      "tax_residencies": []
+    },
+    "signatures": {
+      "primary_applicant": {
+        "signature": "",
+        "name": ""
+      },
+      "co_applicant": {
+        "signature": "",
+        "name": ""
+      },
+      "sales_representative": {
+        "signature": "",
+        "name": ""
+      },
+      "photo": ""
+    }
+  },
+  "bank_use": {
+    "serial_no": "",
+    "company_code": "",
+    "promo": {
+      "code": "",
+      "seven_year_tenure": false,
+      "regional_police": false,
+      "police": false,
+      "premium_scheme": false,
+      "credit_card_balance_transfer": false
+    },
+    "loan_terms": {
+      "processing_fee_pct": 0.0,
+      "roi_pct": 0.0,
+      "stamp_duty_amount": 0
+    },
+    "sourcing": {
+      "sales_centre_name": "",
+      "channel": {
+        "dsa": false,
+        "open_market": false,
+        "branch_channel": false,
+        "direct": false,
+        "campaign_activity": false,
+        "digital": false,
+        "connector": false,
+        "service_recovery_digital_servicing": false
+      },
+      "source_code": {
+        "sms": false,
+        "emailer": false,
+        "mobile": false,
+        "internet_banking": false,
+        "website": false,
+        "atm": false,
+        "aggregator": false,
+        "connector": false,
+        "phone_banking": false,
+        "corporate_banner": false,
+        "service_recovery_digital_servicing": false,
+        "open_market": false
+      },
+      "referrer_branch_name": "",
+      "referrer_branch_id": "",
+      "crm_id": "",
+      "asm_employee_no": "",
+      "tl_dsa_connector_name": "",
+      "tl_dsa_connector_code": "",
+      "dme_name": "",
+      "dme_code": "",
+      "agent_signature": ""
+    },
+    "rm_sm": {
+      "name": "",
+      "employee_id": "",
+      "designation": "",
+      "employee_branch": "",
+      "signature": ""
+    },
+    "osv": {
+      "staff_name": "",
+      "designation": "",
+      "branch_location": "",
+      "employee_id": "",
+      "signature": ""
+    },
+    "acknowledgement": {
+      "date": "",
+      "addressee_name": "",
+      "loan_amount": 0,
+      "contact_landline": "",
+      "sales_manager": "",
+      "dsa": "",
+      "sales_executive": "",
+      "email": ""
+    },
+    "authorised_signature": ""
+  }
+}

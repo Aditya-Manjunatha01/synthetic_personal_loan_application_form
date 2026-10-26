@@ -1,0 +1,603 @@
+{
+  "form_meta": {
+    "bank_name": "bank logo",
+    "bank_tagline": "bank tagline",
+    "bank_website": "www.example-bank.com",
+    "form_title": "Application For Personal Loan",
+    "form_code": "PL02",
+    "form_version": "RA/PL/App Form/April2026/ Version 1.00"
+  },
+  "applicant": {
+    "application_date": "2026-10-05",
+    "existing_customer": {
+      "customer_id": "874520139",
+      "savings_account_yes": true,
+      "savings_account_no": false,
+      "account_no": "917010234567890"
+    },
+    "loan_type": {
+      "pre_approved": false,
+      "premium_scheme": false,
+      "topup_with_closure": false,
+      "parallel": true,
+      "external_bt_loan_account_no": ""
+    },
+    "personal_details": {
+      "name_as_per_id": {
+        "prefix": "MRS",
+        "first_name": "ANANYA",
+        "middle_name": "VENKAT",
+        "last_name": "SHETTY"
+      },
+      "name_as_per_pan": {
+        "prefix": "MRS",
+        "first_name": "ANANYA",
+        "middle_name": "VENKAT",
+        "last_name": "SHETTY"
+      },
+      "maiden_name": {
+        "prefix": "MS",
+        "first_name": "ANANYA",
+        "middle_name": "",
+        "last_name": "RAO"
+      },
+      "father_name": {
+        "prefix": "MR",
+        "first_name": "VENKAT",
+        "middle_name": "",
+        "last_name": "RAO"
+      },
+      "mother_maiden_name": {
+        "prefix": "MRS",
+        "first_name": "SAVITRI",
+        "middle_name": "",
+        "last_name": "HEGDE"
+      },
+      "email": "ANANYA.SHETTY@EXAMPLE.COM",
+      "email_statement": true,
+      "constitution": {
+        "resident_indian": true,
+        "non_resident_indian": false,
+        "foreign_national": false,
+        "overseas_citizen_of_india": false,
+        "person_of_indian_origin": false
+      },
+      "nationality": {
+        "indian": true,
+        "other_selected": false,
+        "other_text": ""
+      },
+      "pep_yes": false,
+      "pep_no": true,
+      "community": {
+        "hindu": false,
+        "muslim": false,
+        "buddhist": false,
+        "christian": false,
+        "sikh": false,
+        "zoroastrian": false,
+        "jain": true,
+        "parsi": false,
+        "others": false,
+        "others_specify": ""
+      },
+      "category": {
+        "general": true,
+        "obc": false,
+        "scheduled_caste": false,
+        "scheduled_tribe": false,
+        "others": false,
+        "others_specify": ""
+      },
+      "gender": {
+        "male": false,
+        "female": true,
+        "third_gender": false
+      },
+      "status": {
+        "resident": true,
+        "nri": false,
+        "pio": false,
+        "oci": false,
+        "foreign_national": false
+      },
+      "dob_as_per_id": "1989-03-22",
+      "dob_as_per_pan": "1989-03-22",
+      "marital_status": {
+        "married": true,
+        "single": false,
+        "others": false
+      },
+      "dependents": 1,
+      "disability_yes": false,
+      "disability_no": true,
+      "education": {
+        "matriculate": false,
+        "undergraduate": false,
+        "graduate": false,
+        "postgraduate": false,
+        "professional": true,
+        "others": false
+      }
+    },
+    "present_address": {
+      "line_1": "B-1204 OCEAN HEIGHTS TOWER",
+      "line_2": "LINK ROAD ANDHERI WEST",
+      "line_3": "NEAR INFINITI MALL",
+      "landmark": "LOKHANDWALA",
+      "city": "MUMBAI",
+      "state": "MAHARASHTRA",
+      "country": "INDIA",
+      "pincode": "400053",
+      "mobile_number": "9820076543",
+      "phone_number": "02226345678",
+      "is_mailing_address": true,
+      "ownership": {
+        "self_owned": false,
+        "parental": false,
+        "owned_mortgaged": true,
+        "company_provided": false,
+        "paying_guest": false,
+        "rental": false,
+        "relative": false
+      },
+      "years_at_residence": 5,
+      "months_at_residence": 2,
+      "years_in_city": 12,
+      "months_in_city": 6
+    },
+    "permanent_address": {
+      "line_1": "NO 88 TEMPLE ROAD",
+      "line_2": "DV GUNDAPPA ROAD",
+      "line_3": "NEAR BUGLE ROCK",
+      "landmark": "BASAVANGUDI",
+      "city": "BENGALURU",
+      "state": "KARNATAKA",
+      "country": "INDIA",
+      "pincode": "560004",
+      "mobile_number": "9886012345",
+      "phone_number": "08026671234",
+      "is_mailing_address": false,
+      "ownership": {
+        "self_owned": false,
+        "parental": true,
+        "owned_mortgaged": false,
+        "rental": false,
+        "relative": false
+      }
+    },
+    "employment": {
+      "occupation": {
+        "salaried": false,
+        "consultant": true
+      },
+      "designation": "CONSULTANT",
+      "department": "ANALYTICS",
+      "organisation_type": {
+        "pvt_ltd": false,
+        "public_ltd": false,
+        "proprietorship": false,
+        "partnership_firm": true,
+        "public_sector": false,
+        "government": false,
+        "mnc": false,
+        "trust_association_society_club": false
+      },
+      "nature_of_employment": "MANAGEMENT CONSULTING",
+      "employer_name": "VERTEX ADVISORY LLP",
+      "office_address": {
+        "line_1": "UNIT 9 BUSINESS CENTRE",
+        "line_2": "BANDRA KURLA COMPLEX",
+        "line_3": "",
+        "landmark": "BKC JUNCTION",
+        "city": "MUMBAI",
+        "state": "MAHARASHTRA",
+        "country": "INDIA",
+        "pincode": "400051",
+        "mobile_number": "9820076543",
+        "phone_number": "02266771000",
+        "is_mailing_address": false
+      },
+      "office_email": "ANANYA@VERTEXADVISORY.EXAMPLE.COM",
+      "office_email_statement": false,
+      "years_in_current_employment": 6,
+      "months_in_current_employment": 3,
+      "total_employment_years": 12,
+      "total_employment_months": 5,
+      "employee_id": "PTR07"
+    },
+    "police_defense": {
+      "belt_no": "",
+      "pis_or_employee_no": "",
+      "rank": "",
+      "regiment_unit_details": ""
+    },
+    "ckyc": {
+      "aadhaar": {
+        "proof_of_identity": {
+          "yes": true,
+          "no": false
+        },
+        "present_address": {
+          "yes": true,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": true
+        },
+        "document_number": "4815"
+      },
+      "voter_id": {
+        "proof_of_identity": {
+          "yes": false,
+          "no": false
+        },
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "pan": {
+        "proof_of_identity": {
+          "yes": true,
+          "no": false
+        },
+        "document_number": "BKPPS7392L"
+      },
+      "passport": {
+        "proof_of_identity": {
+          "yes": true,
+          "no": false
+        },
+        "present_address": {
+          "yes": false,
+          "no": true
+        },
+        "permanent_address": {
+          "yes": true,
+          "no": false
+        },
+        "document_number": "Z4821907",
+        "date_of_issue": "2019-06-11",
+        "date_of_expiry": "2029-06-10"
+      },
+      "driving_license": {
+        "proof_of_identity": {
+          "yes": false,
+          "no": false
+        },
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": "",
+        "date_of_issue": "",
+        "date_of_expiry": ""
+      },
+      "utility_bill": {
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "npr_letter": {
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "pension_order": {
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "narega": {
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "internal_banking": {
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        }
+      },
+      "ckyc_identifier": {
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      }
+    },
+    "proposed_loan": {
+      "amount": 1500000,
+      "term_months": 60,
+      "repayment_mode": {
+        "pdc": true,
+        "nach": false,
+        "si": false
+      }
+    },
+    "financial": {
+      "bank_accounts": [
+        {
+          "bank_name": "BANK LOGO",
+          "account_number": "917010234567890",
+          "account_type": "SAVINGS"
+        },
+        {
+          "bank_name": "HARBOUR TRUST BANK",
+          "account_number": "40112233445566",
+          "account_type": "CURRENT"
+        }
+      ],
+      "existing_loans": [
+        {
+          "financier_name": "BANK LOGO",
+          "loan_amount": 300000,
+          "type_of_loan": "PERSONAL LOAN",
+          "emi": 9800,
+          "topup_or_bt": "NA"
+        },
+        {
+          "financier_name": "",
+          "loan_amount": 0,
+          "type_of_loan": "",
+          "emi": 0,
+          "topup_or_bt": ""
+        },
+        {
+          "financier_name": "",
+          "loan_amount": 0,
+          "type_of_loan": "",
+          "emi": 0,
+          "topup_or_bt": ""
+        }
+      ],
+      "annual_income": 2400000,
+      "net_monthly_income": 185000,
+      "total_annual_household_income": 3600000,
+      "source_of_fund": {
+        "salaried": false,
+        "investment": true,
+        "professional_fees": true,
+        "business_earnings": false,
+        "commission": false,
+        "agriculture": false
+      },
+      "source_of_wealth": {
+        "inherited_funds": false,
+        "property": true,
+        "investment": true,
+        "others": false,
+        "others_specify": "",
+        "nil": false
+      },
+      "wealth_amount": 9500000
+    },
+    "purpose_of_loan": {
+      "education": true,
+      "home_renovation": false,
+      "marriage": false,
+      "travel": false,
+      "consumer_durables": false,
+      "medical": false,
+      "personal": false
+    },
+    "references": [
+      {
+        "name": "VENKAT RAO",
+        "relationship": "FATHER",
+        "address_line_1": "NO 88 TEMPLE ROAD BASAVANGUDI",
+        "address_line_2": "DV GUNDAPPA ROAD",
+        "pincode": "560004",
+        "city": "BENGALURU",
+        "state": "KARNATAKA",
+        "country": "INDIA",
+        "mobile_or_telephone": "9886098765",
+        "email": "VENKAT.RAO@EXAMPLE.COM"
+      },
+      {
+        "name": "NEHA DESAI",
+        "relationship": "FRIEND",
+        "address_line_1": "A-502 SEA BREEZE APARTMENTS",
+        "address_line_2": "CARTER ROAD BANDRA",
+        "pincode": "400050",
+        "city": "MUMBAI",
+        "state": "MAHARASHTRA",
+        "country": "INDIA",
+        "mobile_or_telephone": "9892011223",
+        "email": "NEHA.DESAI@EXAMPLE.COM"
+      }
+    ],
+    "insurance": {
+      "opt_in": true,
+      "opt_in_policy_name": "TERM LIFE COVER",
+      "opt_out": false,
+      "opt_out_policy_name": ""
+    },
+    "consents": {
+      "preferred_language": {
+        "english": true,
+        "hindi": false,
+        "marathi": false,
+        "punjabi": false,
+        "bengali": false,
+        "odia": false,
+        "gujarati": false,
+        "kannada": false,
+        "malayalam": false,
+        "tamil": false,
+        "telugu": false
+      },
+      "cross_sell_yes": true,
+      "cross_sell_no": false,
+      "declaration_not_pep": true
+    },
+    "related_party_declaration": {
+      "entries": [],
+      "authorized_signatory_name": ""
+    },
+    "fatca_crs": {
+      "tax_resident_india_only": false,
+      "tax_resident_other_countries": true,
+      "city_of_birth": "BENGALURU",
+      "country_of_birth": "INDIA",
+      "address_type": {
+        "resident": true,
+        "business": false,
+        "registered_office": false
+      },
+      "tax_residencies": [
+        {
+          "country": "INDIA",
+          "tax_identification_number": "BKPPS7392L",
+          "identification_type": "PAN",
+          "address_for_tax": {
+            "communication_address": true,
+            "permanent_address": false,
+            "other": {
+              "landmark": "",
+              "pin": "",
+              "state": "",
+              "country": ""
+            }
+          }
+        },
+        {
+          "country": "UNITED KINGDOM",
+          "tax_identification_number": "4729183650",
+          "identification_type": "UTR",
+          "address_for_tax": {
+            "communication_address": false,
+            "permanent_address": false,
+            "other": {
+              "landmark": "NEAR CITY PARK",
+              "pin": "M11AE",
+              "state": "ENGLAND",
+              "country": "UNITED KINGDOM"
+            }
+          }
+        }
+      ]
+    },
+    "signatures": {
+      "primary_applicant": {
+        "signature": "Ananya V Shetty",
+        "name": "ANANYA VENKAT SHETTY"
+      },
+      "co_applicant": {
+        "signature": "Kiran Shetty",
+        "name": "KIRAN SHETTY"
+      },
+      "sales_representative": {
+        "signature": "V Pillai",
+        "name": "VIKRAM PILLAI"
+      },
+      "photo": "PHOTO"
+    }
+  },
+  "bank_use": {
+    "serial_no": "PL2026100438",
+    "company_code": "VAL002",
+    "promo": {
+      "code": "PRM100",
+      "seven_year_tenure": false,
+      "regional_police": false,
+      "police": false,
+      "premium_scheme": true,
+      "credit_card_balance_transfer": false
+    },
+    "loan_terms": {
+      "processing_fee_pct": 1.25,
+      "roi_pct": 10.99,
+      "stamp_duty_amount": 750
+    },
+    "sourcing": {
+      "sales_centre_name": "ANDHERI WEST SALES CENTRE",
+      "channel": {
+        "dsa": false,
+        "open_market": false,
+        "branch_channel": true,
+        "direct": false,
+        "campaign_activity": false,
+        "digital": false,
+        "connector": false,
+        "service_recovery_digital_servicing": false
+      },
+      "source_code": {
+        "sms": false,
+        "emailer": false,
+        "mobile": false,
+        "internet_banking": false,
+        "website": false,
+        "atm": false,
+        "aggregator": false,
+        "connector": false,
+        "phone_banking": false,
+        "corporate_banner": false,
+        "service_recovery_digital_servicing": false,
+        "open_market": false
+      },
+      "referrer_branch_name": "ANDHERI WEST",
+      "referrer_branch_id": "2087",
+      "crm_id": "CRM90417",
+      "asm_employee_no": "E22310",
+      "tl_dsa_connector_name": "NA",
+      "tl_dsa_connector_code": "NA",
+      "dme_name": "NA",
+      "dme_code": "NA",
+      "agent_signature": "V Pillai"
+    },
+    "rm_sm": {
+      "name": "VIKRAM PILLAI",
+      "employee_id": "E33104",
+      "designation": "SENIOR RM",
+      "employee_branch": "ANDHERI WEST",
+      "signature": "V Pillai"
+    },
+    "osv": {
+      "staff_name": "VIKRAM PILLAI",
+      "designation": "RM GRADE 4",
+      "branch_location": "ANDHERI WEST",
+      "employee_id": "E33104",
+      "signature": "V Pillai"
+    },
+    "acknowledgement": {
+      "date": "2026-10-05",
+      "addressee_name": "ANANYA VENKAT SHETTY",
+      "loan_amount": 1500000,
+      "contact_landline": "02267001234",
+      "sales_manager": "RAJESH NAIR",
+      "dsa": "NA",
+      "sales_executive": "VIKRAM PILLAI",
+      "email": "andheri.sales@example.com"
+    },
+    "authorised_signature": "S Kulkarni"
+  }
+}

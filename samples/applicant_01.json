@@ -1,0 +1,572 @@
+{
+  "form_meta": {
+    "bank_name": "bank logo",
+    "bank_tagline": "bank tagline",
+    "bank_website": "www.example-bank.com",
+    "form_title": "Application For Personal Loan",
+    "form_code": "PL02",
+    "form_version": "RA/PL/App Form/April2026/ Version 1.00"
+  },
+  "applicant": {
+    "application_date": "2026-10-05",
+    "existing_customer": {
+      "customer_id": "",
+      "savings_account_yes": false,
+      "savings_account_no": true,
+      "account_no": ""
+    },
+    "loan_type": {
+      "pre_approved": true,
+      "premium_scheme": false,
+      "topup_with_closure": false,
+      "parallel": false,
+      "external_bt_loan_account_no": ""
+    },
+    "personal_details": {
+      "name_as_per_id": {
+        "prefix": "MR",
+        "first_name": "ROHAN",
+        "middle_name": "SURESH",
+        "last_name": "IYER"
+      },
+      "name_as_per_pan": {
+        "prefix": "MR",
+        "first_name": "ROHAN",
+        "middle_name": "SURESH",
+        "last_name": "IYER"
+      },
+      "maiden_name": {
+        "prefix": "",
+        "first_name": "",
+        "middle_name": "",
+        "last_name": ""
+      },
+      "father_name": {
+        "prefix": "MR",
+        "first_name": "SURESH",
+        "middle_name": "",
+        "last_name": "IYER"
+      },
+      "mother_maiden_name": {
+        "prefix": "MRS",
+        "first_name": "LAKSHMI",
+        "middle_name": "",
+        "last_name": "RAMAN"
+      },
+      "email": "ROHAN.IYER93@EXAMPLE.COM",
+      "email_statement": true,
+      "constitution": {
+        "resident_indian": true,
+        "non_resident_indian": false,
+        "foreign_national": false,
+        "overseas_citizen_of_india": false,
+        "person_of_indian_origin": false
+      },
+      "nationality": {
+        "indian": true,
+        "other_selected": false,
+        "other_text": ""
+      },
+      "pep_yes": false,
+      "pep_no": true,
+      "community": {
+        "hindu": true,
+        "muslim": false,
+        "buddhist": false,
+        "christian": false,
+        "sikh": false,
+        "zoroastrian": false,
+        "jain": false,
+        "parsi": false,
+        "others": false,
+        "others_specify": ""
+      },
+      "category": {
+        "general": true,
+        "obc": false,
+        "scheduled_caste": false,
+        "scheduled_tribe": false,
+        "others": false,
+        "others_specify": ""
+      },
+      "gender": {
+        "male": true,
+        "female": false,
+        "third_gender": false
+      },
+      "status": {
+        "resident": true,
+        "nri": false,
+        "pio": false,
+        "oci": false,
+        "foreign_national": false
+      },
+      "dob_as_per_id": "1993-07-14",
+      "dob_as_per_pan": "1993-07-14",
+      "marital_status": {
+        "married": true,
+        "single": false,
+        "others": false
+      },
+      "dependents": 2,
+      "disability_yes": false,
+      "disability_no": true,
+      "education": {
+        "matriculate": false,
+        "undergraduate": false,
+        "graduate": false,
+        "postgraduate": true,
+        "professional": false,
+        "others": false
+      }
+    },
+    "present_address": {
+      "line_1": "FLAT 402 SUNRISE APARTMENTS",
+      "line_2": "12TH CROSS HSR LAYOUT SECTOR 2",
+      "line_3": "OPP CITY CENTRE MALL",
+      "landmark": "SILK BOARD",
+      "city": "BENGALURU",
+      "state": "KARNATAKA",
+      "country": "INDIA",
+      "pincode": "560102",
+      "mobile_number": "9845012367",
+      "phone_number": "08041234567",
+      "is_mailing_address": true,
+      "ownership": {
+        "self_owned": false,
+        "parental": false,
+        "owned_mortgaged": false,
+        "company_provided": false,
+        "paying_guest": false,
+        "rental": true,
+        "relative": false
+      },
+      "years_at_residence": 3,
+      "months_at_residence": 4,
+      "years_in_city": 8,
+      "months_in_city": 2
+    },
+    "permanent_address": {
+      "line_1": "NO 17 GANDHI STREET",
+      "line_2": "ADYAR",
+      "line_3": "NEAR METRO STATION",
+      "landmark": "BESANT NAGAR",
+      "city": "CHENNAI",
+      "state": "TAMIL NADU",
+      "country": "INDIA",
+      "pincode": "600020",
+      "mobile_number": "9840098765",
+      "phone_number": "04424412345",
+      "is_mailing_address": false,
+      "ownership": {
+        "self_owned": false,
+        "parental": true,
+        "owned_mortgaged": false,
+        "rental": false,
+        "relative": false
+      }
+    },
+    "employment": {
+      "occupation": {
+        "salaried": true,
+        "consultant": false
+      },
+      "designation": "SENIOR ANALYST",
+      "department": "FINANCE",
+      "organisation_type": {
+        "pvt_ltd": true,
+        "public_ltd": false,
+        "proprietorship": false,
+        "partnership_firm": false,
+        "public_sector": false,
+        "government": false,
+        "mnc": false,
+        "trust_association_society_club": false
+      },
+      "nature_of_employment": "SOFTWARE PROFESSIONAL",
+      "employer_name": "NOVATECH SOLUTIONS PVT LTD",
+      "office_address": {
+        "line_1": "TOWER B 6TH FLOOR TECH PARK",
+        "line_2": "OUTER RING ROAD BELLANDUR",
+        "line_3": "",
+        "landmark": "ECOSPACE",
+        "city": "BENGALURU",
+        "state": "KARNATAKA",
+        "country": "INDIA",
+        "pincode": "560103",
+        "mobile_number": "9845012367",
+        "phone_number": "08067001000",
+        "is_mailing_address": false
+      },
+      "office_email": "ROHAN.IYER@NOVATECH.EXAMPLE.COM",
+      "office_email_statement": false,
+      "years_in_current_employment": 4,
+      "months_in_current_employment": 6,
+      "total_employment_years": 7,
+      "total_employment_months": 3,
+      "employee_id": "NT20417"
+    },
+    "police_defense": {
+      "belt_no": "",
+      "pis_or_employee_no": "",
+      "rank": "",
+      "regiment_unit_details": ""
+    },
+    "ckyc": {
+      "aadhaar": {
+        "proof_of_identity": {
+          "yes": true,
+          "no": false
+        },
+        "present_address": {
+          "yes": true,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": true
+        },
+        "document_number": "6027"
+      },
+      "voter_id": {
+        "proof_of_identity": {
+          "yes": false,
+          "no": false
+        },
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "pan": {
+        "proof_of_identity": {
+          "yes": true,
+          "no": false
+        },
+        "document_number": "ARQPI4821M"
+      },
+      "passport": {
+        "proof_of_identity": {
+          "yes": false,
+          "no": false
+        },
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": "",
+        "date_of_issue": "",
+        "date_of_expiry": ""
+      },
+      "driving_license": {
+        "proof_of_identity": {
+          "yes": false,
+          "no": true
+        },
+        "present_address": {
+          "yes": false,
+          "no": true
+        },
+        "permanent_address": {
+          "yes": true,
+          "no": false
+        },
+        "document_number": "TN0220130045217",
+        "date_of_issue": "2013-03-18",
+        "date_of_expiry": "2033-03-17"
+      },
+      "utility_bill": {
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "npr_letter": {
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "pension_order": {
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "narega": {
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      },
+      "internal_banking": {
+        "present_address": {
+          "yes": false,
+          "no": false
+        },
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        }
+      },
+      "ckyc_identifier": {
+        "permanent_address": {
+          "yes": false,
+          "no": false
+        },
+        "document_number": ""
+      }
+    },
+    "proposed_loan": {
+      "amount": 800000,
+      "term_months": 48,
+      "repayment_mode": {
+        "pdc": false,
+        "nach": true,
+        "si": false
+      }
+    },
+    "financial": {
+      "bank_accounts": [
+        {
+          "bank_name": "METRO UNION BANK",
+          "account_number": "50123456789012",
+          "account_type": "SALARY"
+        },
+        {
+          "bank_name": "CITY TRUST BANK",
+          "account_number": "30987654321098",
+          "account_type": "SAVINGS"
+        }
+      ],
+      "existing_loans": [
+        {
+          "financier_name": "SAMPLE FINANCE LTD",
+          "loan_amount": 350000,
+          "type_of_loan": "CAR LOAN",
+          "emi": 11500,
+          "topup_or_bt": "NA"
+        },
+        {
+          "financier_name": "",
+          "loan_amount": 0,
+          "type_of_loan": "",
+          "emi": 0,
+          "topup_or_bt": ""
+        },
+        {
+          "financier_name": "",
+          "loan_amount": 0,
+          "type_of_loan": "",
+          "emi": 0,
+          "topup_or_bt": ""
+        }
+      ],
+      "annual_income": 1320000,
+      "net_monthly_income": 92000,
+      "total_annual_household_income": 1980000,
+      "source_of_fund": {
+        "salaried": true,
+        "investment": true,
+        "professional_fees": false,
+        "business_earnings": false,
+        "commission": false,
+        "agriculture": false
+      },
+      "source_of_wealth": {
+        "inherited_funds": false,
+        "property": true,
+        "investment": false,
+        "others": false,
+        "others_specify": "",
+        "nil": false
+      },
+      "wealth_amount": 4500000
+    },
+    "purpose_of_loan": {
+      "education": false,
+      "home_renovation": true,
+      "marriage": false,
+      "travel": false,
+      "consumer_durables": false,
+      "medical": false,
+      "personal": false
+    },
+    "references": [
+      {
+        "name": "SURESH IYER",
+        "relationship": "FATHER",
+        "address_line_1": "NO 17 GANDHI STREET ADYAR",
+        "address_line_2": "NEAR METRO STATION",
+        "pincode": "600020",
+        "city": "CHENNAI",
+        "state": "TAMIL NADU",
+        "country": "INDIA",
+        "mobile_or_telephone": "9840011223",
+        "email": "SURESH.IYER@EXAMPLE.COM"
+      },
+      {
+        "name": "ANITA DSOUZA",
+        "relationship": "FRIEND",
+        "address_line_1": "21 PALM GROVE ROAD",
+        "address_line_2": "INDIRANAGAR",
+        "pincode": "560038",
+        "city": "BENGALURU",
+        "state": "KARNATAKA",
+        "country": "INDIA",
+        "mobile_or_telephone": "9886044556",
+        "email": "ANITA.DSOUZA@EXAMPLE.COM"
+      }
+    ],
+    "insurance": {
+      "opt_in": false,
+      "opt_in_policy_name": "",
+      "opt_out": true,
+      "opt_out_policy_name": "LOAN PROTECTION PLAN"
+    },
+    "consents": {
+      "preferred_language": {
+        "english": true,
+        "hindi": false,
+        "marathi": false,
+        "punjabi": false,
+        "bengali": false,
+        "odia": false,
+        "gujarati": false,
+        "kannada": false,
+        "malayalam": false,
+        "tamil": false,
+        "telugu": false
+      },
+      "cross_sell_yes": false,
+      "cross_sell_no": true,
+      "declaration_not_pep": true
+    },
+    "related_party_declaration": {
+      "entries": [],
+      "authorized_signatory_name": ""
+    },
+    "fatca_crs": {
+      "tax_resident_india_only": true,
+      "tax_resident_other_countries": false,
+      "city_of_birth": "CHENNAI",
+      "country_of_birth": "INDIA",
+      "address_type": {
+        "resident": true,
+        "business": false,
+        "registered_office": false
+      },
+      "tax_residencies": []
+    },
+    "signatures": {
+      "primary_applicant": {
+        "signature": "Rohan S Iyer",
+        "name": "ROHAN SURESH IYER"
+      },
+      "co_applicant": {
+        "signature": "",
+        "name": ""
+      },
+      "sales_representative": {
+        "signature": "M Kulkarni",
+        "name": "MEERA KULKARNI"
+      },
+      "photo": "PHOTO"
+    }
+  },
+  "bank_use": {
+    "serial_no": "PL2026100417",
+    "company_code": "NVT001",
+    "promo": {
+      "code": "",
+      "seven_year_tenure": false,
+      "regional_police": false,
+      "police": false,
+      "premium_scheme": false,
+      "credit_card_balance_transfer": false
+    },
+    "loan_terms": {
+      "processing_fee_pct": 1.5,
+      "roi_pct": 11.25,
+      "stamp_duty_amount": 500
+    },
+    "sourcing": {
+      "sales_centre_name": "KORAMANGALA SALES CENTRE",
+      "channel": {
+        "dsa": true,
+        "open_market": false,
+        "branch_channel": false,
+        "direct": false,
+        "campaign_activity": false,
+        "digital": false,
+        "connector": false,
+        "service_recovery_digital_servicing": false
+      },
+      "source_code": {
+        "sms": false,
+        "emailer": false,
+        "mobile": false,
+        "internet_banking": false,
+        "website": false,
+        "atm": false,
+        "aggregator": false,
+        "connector": false,
+        "phone_banking": false,
+        "corporate_banner": false,
+        "service_recovery_digital_servicing": false,
+        "open_market": false
+      },
+      "referrer_branch_name": "HSR LAYOUT",
+      "referrer_branch_id": "1042",
+      "crm_id": "CRM88231",
+      "asm_employee_no": "E20417",
+      "tl_dsa_connector_name": "PRIME FINSERVE",
+      "tl_dsa_connector_code": "DSA0231",
+      "dme_name": "SANJAY RAO",
+      "dme_code": "DME118",
+      "agent_signature": "S Rao"
+    },
+    "rm_sm": {
+      "name": "KAVYA REDDY",
+      "employee_id": "E31872",
+      "designation": "RELATIONSHIP MANAGER",
+      "employee_branch": "HSR LAYOUT",
+      "signature": "K Reddy"
+    },
+    "osv": {
+      "staff_name": "KAVYA REDDY",
+      "designation": "RM GRADE 3",
+      "branch_location": "HSR LAYOUT",
+      "employee_id": "E31872",
+      "signature": "K Reddy"
+    },
+    "acknowledgement": {
+      "date": "2026-10-05",
+      "addressee_name": "ROHAN SURESH IYER",
+      "loan_amount": 800000,
+      "contact_landline": "08067001234",
+      "sales_manager": "ANAND PATIL",
+      "dsa": "PRIME FINSERVE",
+      "sales_executive": "MEERA KULKARNI",
+      "email": "salesdesk@example.com"
+    },
+    "authorised_signature": "R Menon"
+  }
+}
